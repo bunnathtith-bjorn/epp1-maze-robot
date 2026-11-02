@@ -23,9 +23,9 @@ Repository scaffold only. The robot is a standard mCore robot. An existing wirin
 | Member | Responsibility |
 | --- | --- |
 | Bjorn | To assign |
-| Teammate 2 — name to add | To assign |
-| Teammate 3 — name to add | To assign |
-| Teammate 4 — name to add | To assign |
+| Thant | To assign |
+| Tushar | To assign |
+| Khanh | To assign |
 
 ## Organisation
 
